@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>a.png</Source>
+      <Name>a</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\c\Desktop\Caidas\Caidas2\Caidas2\Caidas2\bin\x86\Debug\Content\a.xnb</Output>
+      <Time>2016-09-29T16:31:14.5289513-03:00</Time>
+    </Item>
+    <Item>
+      <Source>caja.png</Source>
+      <Name>caja</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\c\Desktop\Caidas\Caidas2\Caidas2\Caidas2\bin\x86\Debug\Content\caja.xnb</Output>
+      <Time>2016-09-29T16:31:14.5299522-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Bien.png</Source>
+      <Name>Bien</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\c\Desktop\Caidas\Caidas2\Caidas2\Caidas2\bin\x86\Debug\Content\Bien.xnb</Output>
+      <Time>2016-09-30T13:58:52.167506-03:00</Time>
+    </Item>
+    <Item>
+      <Source>repeat.png</Source>
+      <Name>repeat</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\c\Desktop\Caidas\Caidas2\Caidas2\Caidas2\bin\x86\Debug\Content\repeat.xnb</Output>
+      <Time>2016-09-30T15:01:01.3288029-03:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\c\Desktop\Caidas\Caidas2\Caidas2\Caidas2Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\c\Desktop\Caidas\Caidas2\Caidas2\Caidas2\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\c\Desktop\Caidas\Caidas2\Caidas2\Caidas2Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\c\Desktop\Caidas\Caidas2\Caidas2\Caidas2\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2016-09-29T15:14:15.1411815-03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
