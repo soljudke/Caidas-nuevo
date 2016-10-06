@@ -2,22 +2,13 @@
 <XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
   <Asset Type="Pipeline:BuildItemCollection">
     <Item>
-      <Source>a.png</Source>
-      <Name>a</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\c\Desktop\Caidas\Caidas2\Caidas2\Caidas2\bin\x86\Debug\Content\a.xnb</Output>
-      <Time>2016-09-29T16:31:14.5289513-03:00</Time>
-    </Item>
-    <Item>
       <Source>caja.png</Source>
       <Name>caja</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\c\Desktop\Caidas\Caidas2\Caidas2\Caidas2\bin\x86\Debug\Content\caja.xnb</Output>
-      <Time>2016-09-29T16:31:14.5299522-03:00</Time>
+      <Output>C:\Users\c\Desktop\Caidas nuevo\Caidas2\Caidas2\Caidas2\bin\x86\Debug\Content\caja.xnb</Output>
+      <Time>2016-09-29T16:31:16-03:00</Time>
     </Item>
     <Item>
       <Source>Bien.png</Source>
@@ -25,8 +16,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\c\Desktop\Caidas\Caidas2\Caidas2\Caidas2\bin\x86\Debug\Content\Bien.xnb</Output>
-      <Time>2016-09-30T13:58:52.167506-03:00</Time>
+      <Output>C:\Users\c\Desktop\Caidas nuevo\Caidas2\Caidas2\Caidas2\bin\x86\Debug\Content\Bien.xnb</Output>
+      <Time>2016-09-30T13:58:54-03:00</Time>
     </Item>
     <Item>
       <Source>repeat.png</Source>
@@ -34,8 +25,35 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\c\Desktop\Caidas\Caidas2\Caidas2\Caidas2\bin\x86\Debug\Content\repeat.xnb</Output>
-      <Time>2016-09-30T15:01:01.3288029-03:00</Time>
+      <Output>C:\Users\c\Desktop\Caidas nuevo\Caidas2\Caidas2\Caidas2\bin\x86\Debug\Content\repeat.xnb</Output>
+      <Time>2016-09-30T15:01:02-03:00</Time>
+    </Item>
+    <Item>
+      <Source>cancel.png</Source>
+      <Name>cancel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\c\Desktop\Caidas nuevo\Caidas2\Caidas2\Caidas2\bin\x86\Debug\Content\cancel.xnb</Output>
+      <Time>2016-10-05T13:12:56-03:00</Time>
+    </Item>
+    <Item>
+      <Source>caja2.png</Source>
+      <Name>caja2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\c\Desktop\Caidas nuevo\Caidas2\Caidas2\Caidas2\bin\x86\Debug\Content\caja2.xnb</Output>
+      <Time>2016-10-05T13:15:22-03:00</Time>
+    </Item>
+    <Item>
+      <Source>a.png</Source>
+      <Name>a</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\c\Desktop\Caidas nuevo\Caidas2\Caidas2\Caidas2\bin\x86\Debug\Content\a.xnb</Output>
+      <Time>2016-10-05T17:12:44-03:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -43,10 +61,10 @@
       <TargetProfile>HiDef</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\Users\c\Desktop\Caidas\Caidas2\Caidas2\Caidas2Content\</RootDirectory>
-      <LoggerRootDirectory>C:\Users\c\Desktop\Caidas\Caidas2\Caidas2\Caidas2\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Users\c\Desktop\Caidas\Caidas2\Caidas2\Caidas2Content\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Users\c\Desktop\Caidas\Caidas2\Caidas2\Caidas2\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\c\Desktop\Caidas nuevo\Caidas2\Caidas2\Caidas2Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\c\Desktop\Caidas nuevo\Caidas2\Caidas2\Caidas2\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\c\Desktop\Caidas nuevo\Caidas2\Caidas2\Caidas2Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\c\Desktop\Caidas nuevo\Caidas2\Caidas2\Caidas2\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>
@@ -75,7 +93,7 @@
       </Assembly>
       <Assembly>
         <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
-        <Value>2016-09-29T15:14:15.1411815-03:00</Value>
+        <Value>2016-10-02T12:55:30.604511-03:00</Value>
       </Assembly>
     </Assemblies>
   </Asset>

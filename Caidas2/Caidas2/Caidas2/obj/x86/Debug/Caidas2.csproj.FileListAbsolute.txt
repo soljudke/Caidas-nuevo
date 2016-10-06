@@ -40,3 +40,15 @@ E:\Super proyecto\Caidas\Caidas2\Caidas2\Caidas2\obj\x86\Debug\Caidas2.csprojRes
 E:\Super proyecto\Caidas\Caidas2\Caidas2\Caidas2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 E:\Super proyecto\Caidas\Caidas2\Caidas2\Caidas2\obj\x86\Debug\Caidas2.exe
 E:\Super proyecto\Caidas\Caidas2\Caidas2\Caidas2\obj\x86\Debug\Caidas2.pdb
+C:\Users\c\Desktop\Caidas nuevo\Caidas2\Caidas2\Caidas2\bin\x86\Debug\Content\caja.xnb
+C:\Users\c\Desktop\Caidas nuevo\Caidas2\Caidas2\Caidas2\bin\x86\Debug\Content\Bien.xnb
+C:\Users\c\Desktop\Caidas nuevo\Caidas2\Caidas2\Caidas2\bin\x86\Debug\Content\repeat.xnb
+C:\Users\c\Desktop\Caidas nuevo\Caidas2\Caidas2\Caidas2\bin\x86\Debug\Content\cancel.xnb
+C:\Users\c\Desktop\Caidas nuevo\Caidas2\Caidas2\Caidas2\bin\x86\Debug\Content\caja2.xnb
+C:\Users\c\Desktop\Caidas nuevo\Caidas2\Caidas2\Caidas2\bin\x86\Debug\Content\a.xnb
+C:\Users\c\Desktop\Caidas nuevo\Caidas2\Caidas2\Caidas2\bin\x86\Debug\Caidas2.exe
+C:\Users\c\Desktop\Caidas nuevo\Caidas2\Caidas2\Caidas2\bin\x86\Debug\Caidas2.pdb
+C:\Users\c\Desktop\Caidas nuevo\Caidas2\Caidas2\Caidas2\obj\x86\Debug\Caidas2.csprojResolveAssemblyReference.cache
+C:\Users\c\Desktop\Caidas nuevo\Caidas2\Caidas2\Caidas2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\c\Desktop\Caidas nuevo\Caidas2\Caidas2\Caidas2\obj\x86\Debug\Caidas2.exe
+C:\Users\c\Desktop\Caidas nuevo\Caidas2\Caidas2\Caidas2\obj\x86\Debug\Caidas2.pdb
