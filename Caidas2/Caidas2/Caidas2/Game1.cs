@@ -18,6 +18,11 @@ namespace Caidas2
     {
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
+        Texture2D[] textABC=new Texture2D[27];
+        string[] abc = new string[27] { "a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "ñ", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y","z" };
+        Rectangle[] recABC = new Rectangle[27];
+        
+        
         Texture2D caja;
         Texture2D repeat;
         Texture2D letra;
@@ -75,7 +80,10 @@ namespace Caidas2
             mal = Content.Load<Texture2D>("cancel");
             letra = Content.Load<Texture2D>("a");
             bien = Content.Load<Texture2D>("Bien");
-            
+            for (int i = 0; i < textABC.Length; i++)
+            {
+                textABC[i] = Content.Load<Texture2D>(abc[i]);
+            }
             recPlayer = new Rectangle(300, cosa, letra.Width, letra.Height);
         }
 
